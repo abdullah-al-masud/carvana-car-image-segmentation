@@ -6,6 +6,6 @@ The data is converted to 512 x 512 images for both image and masks. The converte
 
 For this task, UNET model was used and the trained model weights and sample real image and predictions are kept inside results/ directory.
 
-train.py contains training program
+`train.py contains training program`
 
-prediction.py is a command line program which can show prediction for a given input image and also shows prediction performance upon provided label/mask image.
+`prediction.py is a command line program which can show prediction for a given input image and also shows prediction performance upon provided label/mask image.`
