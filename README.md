@@ -9,3 +9,13 @@ For this task, UNET model was used and the trained model weights and sample real
 `train.py contains training program`
 
 `prediction.py is a command line program which can show prediction for a given input image and also shows prediction performance upon provided label/mask image.`
+
+
+Sample image input
+
+![](results/label.png)
+
+Corresponding Prediction
+
+![](results/prediction.png)
+
