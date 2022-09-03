@@ -13,7 +13,7 @@ For this task, UNET model was used and the trained model weights and sample real
 
 Sample image input
 
-![](validation512/images/0ce66b539f52_03.jpg)
+![](validation512/images/0ce66b539f52_04.jpg)
 
 Corresponding Prediction
 
