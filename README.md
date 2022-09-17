@@ -4,6 +4,7 @@ This repository contains image classification task program for carvana car maski
 
 The data is converted to 512 x 512 images for both image and masks. So, please create a directory structure like below-
 
+`
 | project directory
 | train512
 |-- images
@@ -22,7 +23,7 @@ The data is converted to 512 x 512 images for both image and masks. So, please c
 | results
 | segmentation
 | README.md
-
+`
 
 For this task, UNET model was used, the trained model weights can be found [here](https://drive.google.com/file/d/1g5vvm3c0Amqzic0LP5mRXzBSIftLYXFU/view?usp=sharing) and sample real image and predictions are kept inside results/ directory.
 
