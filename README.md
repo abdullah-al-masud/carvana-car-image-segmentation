@@ -2,7 +2,27 @@
 
 This repository contains image classification task program for carvana car masking data set found in Kaggle (https://www.kaggle.com/c/carvana-image-masking-challenge)
 
-The data is converted to 512 x 512 images for both image and masks. The converted data is uploaded here.
+The data is converted to 512 x 512 images for both image and masks. So, please create a directory structure like below-
+
+| project directory
+| train512
+|-- images
+|---- 0ce66b539f52_04.jpg
+|---- ......
+|-- label
+|---- 0ce66b539f52_04.png
+|---- ......
+| validation512
+|-- images
+|---- 0ce66b539f52_10.jpg
+|---- ......
+|-- label
+|---- 0ce66b539f52_10.png
+|---- ......
+| results
+| segmentation
+| README.md
+
 
 For this task, UNET model was used, the trained model weights can be found [here](https://drive.google.com/file/d/1g5vvm3c0Amqzic0LP5mRXzBSIftLYXFU/view?usp=sharing) and sample real image and predictions are kept inside results/ directory.
 
