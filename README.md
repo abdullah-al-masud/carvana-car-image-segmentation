@@ -10,14 +10,14 @@ The data is converted to 512 x 512 images for both image and masks. So, please c
 |-- images
 |---- 0ce66b539f52_04.jpg
 |---- ......
-|-- label
+|-- labels
 |---- 0ce66b539f52_04.png
 |---- ......
 | validation512
 |-- images
 |---- 0ce66b539f52_10.jpg
 |---- ......
-|-- label
+|-- labels
 |---- 0ce66b539f52_10.png
 |---- ......
 | results
