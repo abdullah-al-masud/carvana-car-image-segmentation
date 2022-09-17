@@ -34,7 +34,7 @@ For this task, UNET model was used, the trained model weights can be found [here
 
 Sample image input
 
-![](validation512/images/0ce66b539f52_04.jpg)
+![](results/0ce66b539f52_04.jpg)
 
 Label image
 
